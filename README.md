@@ -1,6 +1,6 @@
 # angular-faker-json-http
 
-# run faker json-server with faker database
+## run faker json-server with faker database
 npm run server
 
 ## Development server
