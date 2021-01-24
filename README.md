@@ -1,7 +1,7 @@
 # angular-faker-json-http
 
 ## run faker json-server with faker database
-npm run server
+Run `npm run server' . navigate to http://localhost:3000/products
 
 ## Development server
 
